@@ -2,7 +2,7 @@ package menjacnica.interfejs;
 
 import java.util.GregorianCalendar;
 
-import valuta.Valuta;
+import menjacnica.Valuta;
 
 public interface menjacnicaInterfejs {
 	

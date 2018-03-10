@@ -4,7 +4,6 @@ import java.util.GregorianCalendar;
 import java.util.LinkedList;
 
 import menjacnica.interfejs.menjacnicaInterfejs;
-import valuta.Valuta;
 
 public class Menjacnica implements menjacnicaInterfejs{
 	LinkedList<Valuta> kursnaLista = new LinkedList<Valuta>();
